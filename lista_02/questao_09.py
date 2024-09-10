@@ -7,7 +7,7 @@ Q9. Área de um Círculo: Escreva um algoritmo que solicita ao usuário o raio d
 
 raio_circulo = float(input("Digite o raio do círculo: "));
 
-pi = 3.1416;
+pi = 3.1416; #também poderia usar o math.pi
 
 area_circulo = pi * (raio_circulo ** 2);
 

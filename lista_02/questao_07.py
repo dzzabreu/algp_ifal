@@ -5,7 +5,7 @@ Q7. Escreva um algoritmo que solicita ao usuário uma temperatura em graus Celsi
 
 """
 
-temperatura_Celsius = int(input("Digite a temperatura em graus Celsius: "));
+temperatura_Celsius = float(input("Digite a temperatura em graus Celsius: "));
 
 conversor_Fahrenheit = temperatura_Celsius * 1.8 + 32;
 
