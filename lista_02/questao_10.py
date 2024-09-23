@@ -5,9 +5,9 @@ Q10. Área de um Triângulo: Escreva um algoritmo que solicita ao usuário a bas
 
 """
 
-base_triangulo = int(input("Digite o comprimento da base do triângulo: "));
+base_triangulo = float(input("Digite o comprimento da base do triângulo: "));
 
-altura_triangulo = int(input("Digite o comprimento da altura do triângulo: "));
+altura_triangulo = float(input("Digite o comprimento da altura do triângulo: "));
 
 area_triangulo = (base_triangulo * altura_triangulo) / 2;
 

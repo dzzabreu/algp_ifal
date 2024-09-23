@@ -14,3 +14,11 @@ nota_estudante03 = float(input("Qual a nota do estudante 03? "));
 media_notas = (nota_estudante01 + nota_estudante02 + nota_estudante03) / 3;
 
 print("A média das notas dos 3 estudantes é: ", media_notas);
+
+
+# ATENÇÃO!!
+# Pesquisar sobre o format e sobre como configurar quantas casas decimais eu quero na minha resposta
+
+
+
+

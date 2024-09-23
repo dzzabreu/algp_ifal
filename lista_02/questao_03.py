@@ -13,3 +13,10 @@ idade_futura = idade + 10;
 
 print("Olá,", nome + ". Você terá", idade_futura, "anos daqui a 10 anos.");
 # coloquei o + no lugar da vírgula para evitar que fique um espaço entre Andrezza e o ponto no texto impresso.
+
+"""
+Outra forma de imprimir é (se chama format):
+
+print(f"Olá, {nome}. Você terá {idade_futura} anos daqui a 10 anos.");
+
+"""
